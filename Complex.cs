@@ -34,8 +34,8 @@ namespace Lab4_oop
 
         public Complex()
         {
-            real=9;
-            img=4;
+            real = 9;
+            img = 4;
         }
 
 
